@@ -1,0 +1,24 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "Judiciary information systm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apstar2024/judicary_information.git"
+  },
+  "author": "akash pareta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/apstar2024/judicary_information/issues"
+  },
+  "homepage": "https://github.com/apstar2024/judicary_information#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "mongoose": "^7.0.3"
+  }
+}
